@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alcatel",
+    "sortOrder": 9,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/alcatel.png"
+  },
+  {
+    "name": "Apple",
+    "sortOrder": 1,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/apple.png"
+  },
+  {
+    "name": "Emporia Telecom",
+    "sortOrder": 8,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/emporia.png"
+  },
+  {
+    "name": "Fairphone",
+    "sortOrder": 6,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/fairphone.svg"
+  },
+  {
+    "name": "Motorola",
+    "sortOrder": 7,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/motorola.png"
+  },
+  {
+    "name": "OPPO",
+    "sortOrder": 3,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/oppo.png"
+  },
+  {
+    "name": "Samsung",
+    "sortOrder": 2,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/samsung.png"
+  },
+  {
+    "name": "Xiaomi",
+    "sortOrder": 4,
+    "imageUrl": "https://www.t-mobile.nl/consumer/media/images/_logo/toestelmerken/xiaomi.png"
+  }
+]
