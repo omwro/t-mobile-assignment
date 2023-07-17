@@ -46,3 +46,14 @@ Create a piece of JavaScript code that modifies the HTML elements and styling to
 ![Variant Version](ab-test-variant.png)
 
 To show the variant you need to be able to run the code from the browser console.
+
+# Omer's A/B test commands
+The following commands are used to create different user experiences 
+and must be run inside the console tab.
+
+- Give the user a delivery promise instead of a stock status
+``Array.from(document.querySelectorAll(".stock-status-message")).filter(x => x.innerHTML === "Direct leverbaar").map(x => x.innerHTML = "Vandaag besteld, morgen thuis!")``\
+- Give the user the idea/intention to purchase the phone
+``Array.from(document.querySelectorAll(".product-card-body .button")).map(x => x.innerHTML = "Bekijk & Bestel")``
+- Give the user a quicker glimpse of the full back side of the phone image
+``Array.from(document.querySelectorAll(".product-front-image, .product-back-image")).forEach(x => x.classList.add("wide"))``
